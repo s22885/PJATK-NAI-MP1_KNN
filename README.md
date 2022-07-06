@@ -1,7 +1,7 @@
 
 # k-nearest neighbors algorithm
 
-Algorithm written from scratch.
+Program written from scratch.
 
 In statistics, the k-nearest neighbors algorithm (k-NN) is a non-parametric supervised learning method.
 In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its neighbors, 
